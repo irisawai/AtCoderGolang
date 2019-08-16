@@ -1,2 +1,4 @@
-# GolangPractice
-Repository for Golang study and blog
+# AtCoderGolang
+Repository for implementing AtCoder issues in Golang
+
+If you have any other suggestions, please comment.
